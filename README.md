@@ -7,7 +7,7 @@ Installation is only for those using Plesk and POSTFIX!
 Download the relevant file and provide the necessary permissions
 
 ```bash
-wget https://yunusozcelik.com.tr/pleskmailbaby.sh
+wget https://yunusozcelik.com.tr/pleskmailbaby.sh --no-check-certificate
 ```
 
 Grant the file appropriate permissions:
